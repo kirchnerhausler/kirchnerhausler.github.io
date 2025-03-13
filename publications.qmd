@@ -35,11 +35,7 @@ about:
 ::: {.callout-caution collapse="false"}
 ## Manuscripts Under Review
 
-<<<<<<< HEAD
 **Kirchner-Häusler, A.**, Park, J., Joshanloo, M., Takayama, M., Takano, S., Uchida, Y., Case, B., Lomas, T., Padgett, R. N., Johnson, B. R., & VanderWeele, T. J. (2025). The state of well-being in Japan: A multidimensional examination using data from the Global Flourishing Study. International Journal of Wellbeing. Manuscript submitted for publication.
-=======
-**Kirchner-Häusler, A.**, Park, J., Joshanloo, M., Takayama, M., Takano, S., Uchida, Y., Case, B., Lomas, T., Padgett, R. N., Johnson, B. R., & VanderWeele, T. J. (Year). The state of well-being in Japan: A multidimensional examination using data from the Global Flourishing Study. International Journal of Wellbeing. Manuscript submitted for publication.
->>>>>>> 9de7415dddb123b5c8c2b0f1fc6bc408bf6b8289
 
 **Kirchner-Häusler, A.**, Uskul, A.K., Wohl, M. J. A., Vignoles, V.L., Cross, S. E., Rodriguez-Bailón, R., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J. A., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2024). The role of apology beliefs for apology outcomes across cultures with varying honor norms. \[Manuscript under review at Current Research in Ecological and Social Psychology\]. Institute for the Future of Human Society, Kyoto University.
 

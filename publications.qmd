@@ -44,19 +44,15 @@ Smith, P., **Kirchner-Häusler, A.**, Grigoryan, L., Lun, V., Lopukhova, O., Per
 Jin, S., Romano, A.†, Vignoles, V. L.†, **Kirchner-Häusler, A.**, Rodríguez-Bailón, R., Cross, S. E., Yalçın, M.J., Harb, C., Husnu, S., Ishii, K., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y, & Uskul, A. K.\* (under 2nd round review). Honour, competition and cooperation across 13 societies. \[Manuscript under review at Nature Human Behavior\]. School of Psychology, University of Sussex.
 :::
 
-<<<<<<< HEAD
-Husnu, S., Psaltis, C., **Kirchner-Häusler, A.**, & Uskul, A. K. (2024). Retributive justice beliefs in Cyprus: The role of apology effectiveness and honor value endorsement. \[Manuscript accepted at Current Research in Ecological and Social Psychology\]. Department of Psychology, University of Cyprus. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5056764)
-
-Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, & Mesquita, B. (forthcoming). Culture and emotions in romantic relationships. In De Leersnyder, J. (Ed.), The Socio-Cultural Shaping of Emotion. Cambridge University Press: Cambridge, UK.
-
 **Kirchner-Häusler, A.**, Uskul, A.K., Wohl, M., Orazani, N., Rodríguez-Bailón, R., Cross, S. E., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y., & Vignoles, V.L. (2024). Assessing the Role of Honor Culture and Image Concerns in Impeding Apologies \[Manuscript accepted at European Journal of Social Psychology\]. School of Psychology, University of Sussex.
-=======
+
 Schouten, A., Boiger, M., **Kirchner-Häusler, A.**, & Mesquita, B. (forthcoming). Culture and emotions in romantic relationships. In De Leersnyder, J. (Ed.), The Socio-Cultural Shaping of Emotion. Cambridge University Press: Cambridge, UK.
+
+Husnu, S., Psaltis, C., **Kirchner-Häusler, A.**, & Uskul, A. K. (2024). Retributive justice beliefs in Cyprus: The role of apology effectiveness and honor value endorsement. \[Manuscript accepted at Current Research in Ecological and Social Psychology\]. Department of Psychology, University of Cyprus. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5056764)
 
 **Kirchner-Häusler, A.**, Uskul, A.K., Wohl, M., Orazani, N., Rodríguez-Bailón, R., Cross, S. E., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y., & Vignoles, V.L. (2024). Assessing the Role of Honor Culture and Image Concerns in Impeding Apologies \[Manuscript accepted at European Journal of Social Psychology\]. School of Psychology, University of Sussex.
 
 Husnu, S., Psaltis, C., **Kirchner-Häusler, A.**, & Uskul, A. K. (2024). Retributive justice beliefs in Cyprus: The role of apology effectiveness and honor value endorsement. \[Manuscript accepted at Current Research in Ecological and Social Psychology\]. Department of Psychology, University of Cyprus. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5056764)
->>>>>>> deef14a62a0a06057173fb29939b04b546040be2
 
 Kafetsios, K., Hess, U., Alonso-Arbiol, I., Schütz, A., Gruda, D., Campbell, K., Chen, B.-B., Dostal, D., Held, M. J., Hypsova, P., Kamble, S., Kimura, T., **Kirchner-Häusler, A.**, Kyvelea, M., Livi, S., Mandal, E., Ochnik, D., Papageorgakopoulos, N., Seitl, M., … Uskul, A. K. (2025). Higher social class is associated with higher contextualized emotion recognition accuracy across cultures. PLOS ONE, 20(5), e0323552. https://doi.org/10.1371/journal.pone.0323552 [Full article](publications/Kafetsios%20et%20al.%20-%202025%20-%20Higher%20social%20class%20is%20associated%20with%20higher%20contextualized%20emotion%20recognition%20accuracy%20across%20cultures.pdf)
 

@@ -1,0 +1,157 @@
+---
+title: "Publications"
+format:
+  html:
+    css: publications.scss
+    grid:
+      margin-width: 350px
+      sidebar-width: 0px
+      gutter-width: 30px
+
+---
+
+<h5>2025</h5>
+
+Schouten, A., Boiger, M., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Mesquita, B. (forthcoming). Culture and emotions in romantic relationships. In De Leersnyder, J. (Ed.), The Socio-Cultural Shaping of Emotion. Cambridge University Press: Cambridge, UK.
+
+Uchida, Y., & [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"} (2025). A Cultural Lens on Romantic Dependence: Commentary on Wahring, Simpson, & Van Lange (2025). [Manuscript accepted at Behavioral and Brain Sciences].
+
+Smith, P., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Grigoryan, L., Lopukhova, O., Perez Floriano, L., Diaz Rivera, P. E., Abbas, A., Papastylianou, A., Tripodi, D., Gunsoy, C., Hakobjanyan, A., Torres, C., Grigoryan, A., Kocak, O., Mendes Texeira, M. L., Selim, H., Milfont, T., Gavreliuc, A., Gavreliuc, D., Bilewicz, M., Kwantes, C., Anderson, J., Easterbrook, M., Koc, Y., Delfino, G., Chobthamkit, P., Ping, H., Efremova, M., Daganzo, M. A., Adams, B., Ogusu, N., Tan, C. S., Guevara Maldonado, M., Lay, S., & Gamsakhurdia, V. (2025). Which cultural dimensions predict variations in emotional conformity? An extension of Vishkin et al. (2023) across 28 nations. [Manuscript accepted at Journal of Cross-Cultural Psychology]. Institute for the Future of Human Society, Kyoto University.
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Uskul, A. K., Wohl, M. J. A., Vignoles, V. L., Cross, S. E., Rodriguez-Bailón, R., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2025). The role of apology beliefs for apology tendencies across cultures with varying honor norms. Current Research in Ecological and Social Psychology, 9, 100230. https://doi.org/10.1016/j.cresp.2025.100230
+
+::: {.column-margin}
+[Full article](publications/Kirchner-Häusler%20et%20al.%20-%202025%20-%20The%20role%20of%20apology%20beliefs%20for%20apology%20tendencies%20across%20cultures%20with%20varying%20honor%20norms.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/CRESP Supplementary Materials.docx)
+::: 
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Uskul, A. K., Wohl, M. J. A., Orazani, N., Rodriguez‐Bailón, R., Cross, S. E., Gezici‐Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros‐Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y., & Vignoles, V. L. (2025). Assessing the role of honour culture and image concerns in impeding apologies. European Journal of Social Psychology. https://doi.org/10.1002/ejsp.70002
+
+::: {.column-margin}
+[Full article](publications/Euro%20J%20Social%20Psych%20-%202025%20-%20Kirchner‐Häusler%20-%20Assessing%20the%20Role%20of%20Honour%20Culture%20and%20Image%20Concerns%20in%20Impeding.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/EJSP Supplementary Materials.docx)
+:::
+
+Husnu, S., Psaltis, C., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Uskul, A. (2025). Retributive justice beliefs in Cyprus: The role of apology effectiveness and honor value endorsement. Current Research in Ecological and Social Psychology, 8, 100224. https://doi.org/10.1016/j.cresp.2025.100224
+
+::: {.column-margin}
+[Full article](publications/Husnu%20et%20al.%20-%202025%20-%20Retributive%20justice%20beliefs%20in%20Cyprus%20The%20role%20of%20apology%20effectiveness%20and%20honor%20value%20endorsement.pdf)
+:::
+
+Kafetsios, K., Hess, U., Alonso-Arbiol, I., Schütz, A., Gruda, D., Campbell, K., Chen, B.-B., Dostal, D., Held, M. J., Hypsova, P., Kamble, S., Kimura, T., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Kyvelea, M., Livi, S., Mandal, E., Ochnik, D., Papageorgakopoulos, N., Seitl, M., … Uskul, A. K. (2025). Higher social class is associated with higher contextualized emotion recognition accuracy across cultures. PLOS ONE, 20(5), e0323552. https://doi.org/10.1371/journal.pone.0323552
+
+::: {.column-margin}
+[Full article](publications/Kafetsios%20et%20al.%20-%202025%20-%20Higher%20social%20class%20is%20associated%20with%20higher%20contextualized%20emotion%20recognition%20accuracy%20across%20cultures.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/PLOS One Supplementary Materials.zip)
+:::
+
+Sánchez-Rodríguez, Á., O’Dea, C., Uskul, A. K., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Vignoles, V., Chobthamkit, P., Achmad, R. A., Andrianto, S., Kristanto, A. A., Ardi, R., Lesmana, C. B. J., Castillo, V. A., Chaleeraktrakoon, T., Zhi, A. C. H., Choompunuch, B., Cross, S. E., Nguyen, S. D., Fernandez, E. F., Purba, F. D., … Uchida, Y. (2025). Overcoming low status or maintaining high status? A multinational examination of the association between socioeconomic status and honour. British Journal of Social Psychology, 64, e12854. https://doi.org/10.1111/bjso.12854
+
+::: {.column-margin}
+[Full article](publications/Sánchez‐Rodríguez%20et%20al.%20-%202025%20-%20Overcoming%20low%20status%20or%20maintaining%20high%20status%20A%20multinational%20examination%20of%20the%20association%20between%20socioeconomic%20status%20and%20honour.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/Sanchez EJSP Supplementary Materials.docx)
+:::
+
+Kafetsios, K., Hess, U., Dostal, D., Seitl, M., Hypsova, P., Hareli, S., Alonso-Arbiol, I., Schütz, A., Gruda, D., Campbell, K., Chen, B.-B., Held, M. J., Kamble, S., Kimura, T., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Livi, S., Mandal, E., Ochnik, D., Sakman, E., … Uskul, A. K. (2025). A contextualized emotion perception assessment relates to personal and social well-being. Journal of Research in Personality, 114, 104556. https://doi.org/10.1016/j.jrp.2024.104556
+
+::: {.column-margin}
+[Full article](publications/Kafetsios%20et%20al.%20-%202025%20-%20A%20contextualized%20emotion%20perception%20assessment%20relates%20to%20personal%20and%20social%20well-being%204.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/JRP 2025 Supplementary Materials.docx)
+:::
+
+<h5>2024</h5>
+
+Vignoles, V. L.\*, [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"} \*, Uskul, A. K.\*, Cross, S. E., Rodriguez-Bailón, R., Bossom, I. R. L., Castillo, V. A., Gezici-Yalçın, M., Harb, C., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., … Wohl, M. J. A. (2025). Are Mediterranean Societies “Cultures of Honor?”: Prevalence and Implications of a Cultural Logic of Honor Across Three World Regions. Personality and Social Psychology Bulletin, 0(0). https://doi.org/10.1177/01461672241295500 *\* Shared first authorship*
+
+::: {.column-margin}
+[Full article](publications/vignoles-et-al-2024-are-mediterranean-societies-cultures-of-honor-prevalence-and-implications-of-a-cultural-logic-of.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/PSPB Supplementary Materials.docx)
+:::
+
+Uskul, A. K., Hanel, P. H. P., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Vignoles, V. L., Jin, S., Rodriguez-Bailón, R., Castillo, V. A., Cross, S. E., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., . . . Uchida, Y. (2025). Differences and similarities in psychological characteristics between cultural groups circum Mediterranean. Journal of Personality and Social Psychology, 129(1), 1–19. https://doi.org/10.1037/pspa0000434
+
+::: {.column-margin}
+[Accepted Manuscript](publications/Uskul%20-%202024%20-%20Differences%20and%20Similarities%20in%20Psychological%20Characteristics%20between%20Cultural%20Groups%20Circum%20Mediterranean.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/JPSP Supplementary Materials.docx)
+:::
+
+Uskul, A. K., Cila, J., Gul, P., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Hubená, B. (2024). Honour, acculturation and well-being: Evidence from the UK and Canada. British Journal of Social Psychology, 63, 1701–1724. https://doi.org/10.1111/bjso.12751 
+
+::: {.column-margin}
+[Full article](publications/Uskul%20et%20al.%20-%202024%20-%20Honour,%20acculturation%20and%20well‐being%20Evidence%20from%20the%20UK%20and%20Canada.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/BJSO Supplementary Materials.docx)
+:::
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Schönbrodt, F. D., Uskul, A. K., Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V. A., Cross, S. E., Gezici-Yalçın, M., Harb, C., Husnu, S., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., … Uchida, Y. (2024). Proximal and distal honor fit and subjective well-being in the Mediterranean region. Journal of Personality, 92, 38–54. https://doi-org.kyoto-u.idm.oclc.org/10.1111/jopy.12803 
+
+::: {.column-margin}
+[Full article](publications/Kirchner‐Häusler%20et%20al.%20-%202024%20-%20Proximal%20and%20distal%20honor%20fit%20and%20subjective%20well‐being%20in%20the%20Mediterranean%20region.pdf)&nbsp;&nbsp;&nbsp;[Supplementary Materials](publications/JOP Supplementary Materials.docx)
+:::
+
+Scharbert, J., Humberg, S., Kroencke, L., Reiter, T., Sakel, S., Ter Horst, J., ... [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, ... & Back, M. D. (2024). Psychological well-being in Europe after the outbreak of war in Ukraine. Nature Communications, 15(1), 1202.
+
+::: {.column-margin}
+[Full article](publications/Scharbert%20et%20al.%20-%202024%20-%20Psychological%20well-being%20in%20Europe%20after%20the%20outbreak%20of%20war%20in%20Ukraine.pdf)
+:::
+
+<h5>2023</h5>
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, De Leersnyder, J., Uskul, A. K., Mirzada, F., Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V.A., Cross, S.E., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Karamaouna, P., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2023). Cultural fit of emotions and subjective well-being: Replicating comparative evidence and extending it to the Mediterranean region. Current Research in Ecological and Social Psychology, 5, 100171.
+
+::: {.column-margin}
+[Full article](publications/Kirchner-Häusler%20et%20al.%20-%202023%20-%20Cultural%20fit%20of%20emotions%20and%20subjective%20well-being%20Replicating%20comparative%20evidence%20and%20extending%20it%20to%20the%20Mediterranean%20region.pdf)
+:::
+
+Scharbert, J., Reiter, T., Sakel, S., ter Horst, J., Geukes, K., Gosling, S. D., Harari, G., Kroencke, L., Matz, S., Schoedel, R., Shani, M., Stachl, C., Talaifar, S., Aguilar, N. M. A., Amante, D., Aquino, S. D., Bastias, F., Biesanz, J. C., Bornamanesh, A., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, ... & Back, M. D. (2023). A global experience-sampling method study of well-being during times of crisis: The CoCo project. Social and Personality Psychology Compass, 17(10), e12813.
+
+::: {.column-margin}
+[Full article](publications/Scharbert%20et%20al.%20-%202023%20-%20A%20global%20experience‐sampling%20method%20study%20of%20well‐being%20during%20times%20of%20crisis%20The%20CoCo%20project.pdf)
+:::
+
+Uskul, A. K., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Vignoles, V. L., Rodríguez-Bailón, R., Castillo, V. A., Cross, S. E., Gezici Yalçın, M., Harb, C., Husnu, S., Ishii, K., Jin, S., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Liu, D., Miniesy, R., Na, J., Özkan, Z., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2023). Neither Eastern nor Western: Patterns of independence and interdependence in Mediterranean societies. Journal of Personality and Social Psychology, 125(3), 471-495.
+
+::: {.column-margin}
+[Full article](publications/Uskul%20-%202023%20-%20Neither%20Eastern%20nor%20Western%20Patterns%20of%20Independence%20and.pdf)
+:::
+
+Psaltis, C., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Uskul, A.K., Kovras, I., & Eleftheriou, A. (2023). The Role of Honor, Dignity, and Face Values in Transitional Justice Preferences in Post-Conflict Cyprus. Peace and Conflict: Journal of Peace Psychology, 29(3), 294-305.
+
+::: {.column-margin}
+[Full article](publications/Psaltis%20et%20al.%20-%202023%20-%20Role%20of%20honor,%20dignity,%20and%20face%20values%20in%20transitional%20justice%20in%20postconflict%20cyprus.pdf)
+:::
+
+<h5>2022</h5>
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Mesquita, B. (2022). *How do happy couples feel? It depends on the culture*. Invited contribution to the Character & Context blog of the Society for Personality and Social Psychology.
+
+::: {.column-margin}
+[Full article](https://spsp.org/news/character-and-context-blog/kirchner-hausler-mesquita-culture-couples-satisfaction)
+:::
+
+[**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Boiger, M., Uchida, Y., Higuchi, Y., Uchida, A., & Mesquita, B. (2022). Relatively Happy: The Role of the Positive-to-Negative Affect Ratio in Japanese and Belgian Couples. Journal of Cross-Cultural Psychology, 53(1), 66-86.
+
+::: {.column-margin}
+[Full article](publications/Kirchner-Häusler%20et%20al.%20-%202022%20-%20Relatively%20Happy%20The%20Role%20of%20the%20Positive-to-Negative%20Affect%20Ratio%20in%20Japanese%20and%20Belgian%20Couples.pdf)
+:::
+
+Boiger, M., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Schouten, A., Uchida, Y., & Mesquita, B. (2022). Different bumps in the road: The emotional dynamics of couple disagreements in Belgium and Japan. Emotion, 22(5), 805–819.
+
+::: {.column-margin}
+[Full article](https://lirias.kuleuven.be/retrieve/596308)
+:::
+
+<h5>2020</h5>
+
+Schouten, A., Boiger, M., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Uchida, Y., & Mesquita, B. (2020). Cultural Differences in Emotion Suppression in Belgian and Japanese Couples: A Social Functional Model. Frontiers in Psychology, 11:1048, 1 – 12.
+
+::: {.column-margin}
+[Full article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01048/full)
+:::
+
+<h5>2018</h5>
+
+[**Kirchner, A.**]{style="color:#F2B09B;"}, Boiger, M., Uchida, Y., Norasakkunkit, V., Verduyn, P., & Mesquita, B. (2018). Humiliated fury is not universal: the co-occurrence of anger and shame in the United States and Japan. Cognition and Emotion, 32(6), 1317-1328.
+
+::: {.column-margin}
+[Full article](https://www.tandfonline.com/doi/abs/10.1080/02699931.2017.1414686)
+:::
+
+<h5>2015</h5>
+
+Braun, S., Bark, A. H., [**Kirchner, A.**]{style="color:#F2B09B;"}, Stegmann, S., & van Dick, R. (2015). Emails From the Boss—Curse or Blessing? Relations Between Communication Channels, Leader Evaluation, and Employees’ Attitudes. International Journal of Business Communication, 56(1), 50-81.
+
+::: {.column-margin}
+[Full article](https://journals.sagepub.com/doi/abs/10.1177/2329488415597516)
+:::

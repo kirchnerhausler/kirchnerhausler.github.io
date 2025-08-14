@@ -1,0 +1,13 @@
+/* Define a grid layout for your publications and notes */
+.publication-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem; /* Adds space between the columns */
+}
+
+/* Style the notes section */
+.publication-notes {
+  background-color: #f8f8f8; /* A light background color for visibility */
+  padding: 1rem;
+  border-left: 1px solid #ddd;
+}

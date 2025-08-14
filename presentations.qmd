@@ -1,0 +1,321 @@
+---
+title: "Presentations"
+format:
+  html:
+    css: presentations.scss
+    grid:
+      margin-width: 350px
+      sidebar-width: 0px
+      gutter-width: 30px
+---
+
+<h5>2025</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+Congress of the Japanese Psychological Association, Sendai, Japan
+:::
+
+::: {.column width="60%"}
+[**Rethinking Japan through the Mediterranean: New Perspectives on Cultural Diversity**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+International Congress of the International Association for Cross-Cultural Psychology, Brisbane, Australia
+:::
+
+::: {.column width="60%"}
+[**Sorry, Not Sorry: The Interplay of Honor and Apologies in the Mediterranean**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/Brisbane%202025_KirchnerHausler_Sorry%20Not%20Sorry.pdf)
+:::
+
+<h5>2024</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+Lab Meeting, こころ Lab, Institute for the Future of Human Society, Kyoto University, Kyoto, Japan
+:::
+
+::: {.column width="60%"}
+[**Culture & Well-being: A Research Outline**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/IFOHS_Culture%20Lab_2024.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+EASP funded Small-Group Meeting, Pescara, Italy
+:::
+
+::: {.column width="60%"}
+[**The Role Of Dignity, Face, and Honour Cultural Logics in Intrapersonal, Interpersonal, and Intergroup Processes**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/EASP2024_SGM_Alexander%20Kirchner%20Haeusler.pdf)
+:::
+
+<h5>2023</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+European Association of Social Psychology, Krakow, Poland
+:::
+
+::: {.column width="60%"}
+[**Are Mediterranean societies honor cultures? The cultural logics of Honor, Face, and Dignity in Southern-Europe and the MENA Region**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/EASP2023_Alexander%20Kirchner%20Haeusler.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+International Convention of Psychological Science, Brussels, Belgium
+:::
+
+::: {.column width="60%"}
+[**Honor Fit and Well-Being in the Mediterranean Region**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Poster](presentations/ICPS2023_Alexander%20Kirchner%20Haeusler.pdf)
+:::
+
+<h5>2022</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+UK Culture and Psychology Conference, Newcastle, UK
+:::
+
+::: {.column width="60%"}
+[**Honor Fit and Well-Being in the Mediterranean Region**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/UK%20Culture%202022_Honor%20Fit%20and%20Wellbeing.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+International Congress of the International Association for Cross-Cultural Psychology, Online
+:::
+
+::: {.column width="60%"}
+[**What shapes our self? The role of socio-contextual influences on independence and interdependence**]{style="color:#F2B09B;"}<br>Speakers: Prof. Jinkyung Na (Sogang University, South Korea), Dr. Jonathan Schulz (George Mason University, USA), Dr. Nicolas Geeraert (University of Essex, UK), & Prof. Ayse Uskul (University of Kent, UK) Discussant: Prof. Vivian Vignoles (University of Sussex, UK)
+:::
+
+:::
+
+::: {.column-margin}
+[Overview Video](presentations/IACCP_2022_Introduction.mp4)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+Conference of the Consortium of European Research on Emotions, Granada, Spain
+:::
+
+::: {.column width="60%"}
+[**Expanding the map: Emotional Fit and Subjective Wellbeing in the Mediterranean**]{style="color:#F2B09B;"}
+:::
+:::
+
+::: {.column-margin}
+[Slides](presentations/IARR2022_Self%20and%20Relationships_Alexander%20Kirchner%20Haeusler.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+Conference of the International Association for Relationship Research, Online
+:::
+
+::: {.column width="60%"}
+[**The Self and Relationships in the Mediterranean**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/CERE2022_Emotional%20Fit%20and%20Well-being_Alexander%20Kirchner-Hausler.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+Conference of the Society for Personality and Social Psychology, Hybrid / San Francisco, USA
+:::
+
+::: {.column width="60%"}
+[**The link between self-construal and wellbeing in honor, face, and dignity regions**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/SPSP2022_Self-construal%20and%20Well-being_Alexander%20Kirchner-Hausler.pdf)
+:::
+
+<h5>2021</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+25th International Congress of the International Association for Cross-Cultural Psychology, Online
+:::
+
+::: {.column width="60%"}
+[**Emotions during Mother-Daughter Disagreements in Belgium and Japan**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/IACCP%202021_Mother%20Daughter%20Disagreements_%20Alexander%20Kirchner%20Hausler.pdf)
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+Triandis Doctoral Award Presentation, 25th International Congress of the International Association for Cross-Cultural Psychology, Online
+:::
+
+::: {.column width="60%"}
+[**The Relationality of Feelings: A Cultural Comparison of Affective Patterns in Western and East-Asian Relationships**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/IACCP2021_Triandis%20Award%20Lecture_Alexander%20Kirchner%20Hausler.pdf)
+:::
+
+<h5>2020</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+Social Seminar, Department of Psychology, University of Kent, Canterbury, UK
+:::
+
+::: {.column width="60%"}
+[**Emotions and Relationships in Belgium and Japan**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.column-margin}
+[Slides](presentations/SS2020_Emotions%20Relationships_Alexander%20Kirchner%20Hausler.pdf)
+:::
+
+<h5>2018</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+Consortium for Emotion Research in Europe (CERE), Glasgow, UK
+:::
+
+::: {.column width="60%"}
+[**We move, we stay, together: Interpersonal patterns of affect in Belgium and Japan**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+<h5>2017</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+EASP General Meeting, Granada, Spain
+:::
+
+::: {.column width="60%"}
+[**Cultural Differences in self-reported affect and relationship satisfaction during couple conflicts**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+Pre-conference meeting “Relationships and Health”, 2017 EASP conference, Granada, Spain
+:::
+
+::: {.column width="60%"}
+[**The role of positive affect for partner’s satisfaction and wellbeing in two cultures**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+<h5>2016</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+23rd Congress of the International Association for Cross-Cultural Psychology, Nagoya, Japan
+:::
+
+::: {.column width="60%"}
+[**Conflict in Couples: Behavioral strategies and their relationship outcomes in the US, Belgium and Japan**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+<h5>2015</h5>
+
+::: {.columns}
+
+::: {.column width="40%"}
+Congress of the International Society for Research on Emotions, Geneva, Switzerland
+:::
+
+::: {.column width="60%"}
+[**Humiliated Fury is not universal: The co-occurrence of anger and shame in the U.S. and Japan**]{style="color:#F2B09B;"}
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+International Convention of Psychological Science, Amsterdam, The Netherlands
+:::
+
+::: {.column width="60%"}
+[**The effect of hate crime on self-attributed humanness**]{style="color:#F2B09B;"}
+:::
+
+:::

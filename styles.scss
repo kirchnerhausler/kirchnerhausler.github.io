@@ -1,0 +1,73 @@
+/*-- scss:defaults --*/
+
+$body-bg-image: linear-gradient(90deg, shade-color(#4B5D8A, 30%), shade-color(#CC6F4A, 15%)) !important;
+
+/*-- scss:rules --*/
+
+/* Target the navigation links */
+.navbar-nav {
+  margin: 0 auto;       /* centers the nav container */
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem; /* Adjust this value to increase or decrease font size */
+  text-align: center;
+  padding-top: 0rem; /* Decrease top padding */
+  padding-bottom: 0rem; /* Decrease bottom padding */
+  padding-left: 0rem; /* Decrease left padding */
+  padding-right: 0rem; /* Decrease right padding */
+  border-bottom: 1px solid rgba(245, 245, 245, 0.5);
+}
+
+.navbar {
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important; /* optional: removes shadow if present */
+}
+
+h1 {
+  color: #f4c2c2;
+  /* border-bottom: 2px solid #f4c2c2;
+  /* padding-bottom: 0.5rem; /* Creates a small gap between the text and the border */
+}
+
+h5 {
+  border-bottom: 1px solid rgba(245, 245, 245, 0.5);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; /* Creates a small gap between the text and the border */
+}
+
+h4 {
+  border-bottom: 1px solid rgba(245, 245, 245, 0.5);
+  padding-top: 0.5rem;
+  font-weight: normal;
+}
+
+.blockquote {
+  border-left: 0px;
+  color: #FFF;
+}
+
+.blockquote-footer{
+  padding-right: 1.5rem;
+  color: #FFF;
+}
+
+.title{
+  color: #FFF;
+}
+
+.about-contents{
+  padding-left: 3em !important;
+}
+
+@media (max-width: 768px) {
+  /* Styles here will apply only when the viewport is 768px or smaller */
+.about-contents{
+  padding-left: 0em !important;
+  }
+}
+
+.about-entity{
+  padding-right: 0.2em !important;
+}

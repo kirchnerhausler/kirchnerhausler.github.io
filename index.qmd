@@ -1,6 +1,6 @@
 ---
 title: "Alexander Kirchner-Häusler"
-image: images/profilepic.png
+image: images/profilepicsmall.png
 about:
   template: trestles
   links:

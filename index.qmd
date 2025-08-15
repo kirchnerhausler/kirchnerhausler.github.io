@@ -6,7 +6,7 @@ about:
   links:
     - icon: IFOHS
       text: IFOHS
-      href: https://ifohs.kyoto-u.ac.jp/en/archives/member/34714
+      href: https://ifohs.kyoto-u.ac.jp/en/archives/member/alexander-kirchner-hausler
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/alexander-kirchner-h%C3%A4usler-phd-222a54159/      

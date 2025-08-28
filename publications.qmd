@@ -12,7 +12,11 @@ format:
 
 <h5>2025</h5>
 
-Jin, S., Romano, A., Vignoles, V. L., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Rodríguez-Bailón, R., Cross, S. E., Yalçın, M.J., Harb, C., Husnu, S., Ishii, K., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y, & Uskul, A. K. (2025). Honor, competition and cooperation across 13 societies. [Manuscript accepted at Nature Human Behavior].
+Jin, S., Romano, A., Vignoles, V. L., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Rodríguez-Bailón, R., Cross, S. E., Yalçın, M.J., Harb, C., Husnu, S., Ishii, K., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y, & Uskul, A. K. (2025). Honor, competition and cooperation across 13 societies. [Manuscript accepted at Nature Human Behavior]. 
+
+::: {.column-margin}
+[Preprint](publications/Jin_et_al_preprint.pdf)
+::: 
 
 Schouten, A., Boiger, M., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Mesquita, B. (forthcoming). Culture and emotions in romantic relationships. In De Leersnyder, J. (Ed.), The Socio-Cultural Shaping of Emotion. Cambridge University Press: Cambridge, UK.
 

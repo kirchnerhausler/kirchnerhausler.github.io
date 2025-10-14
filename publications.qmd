@@ -12,6 +12,12 @@ format:
 
 <h5>2025</h5>
 
+Smith, P. B., Kirchner-Häusler, A., Grigoryan, L., Lun, V. M.-C., Lopukhova, O., Perez Floriano, L., Diaz Rivera, P. E., Abbas, A., Papastylianou, A., Tripodi, D., Gunsoy, C., Hakobjanyan, A., Torres, C., Grigoryan, A., Koçak, Ö. E., Mendes Texeira, M. L., Selim, H. A., Milfont, T. L., Gavreliuc, A., … Castillo, V. A. (2025). Which Cultural Dimensions Predict Variations in Emotional Conformity? An Extension of Vishkin et al. (2023) Across 28 Nations. Journal of Cross-Cultural Psychology, 0(0).
+
+::: {.column-margin}
+[Article](publications/smith-et-al-2025-which-cultural-dimensions-predict-variations-in-emotional-conformity-an-extension-of-vishkin-et-al.pdf)
+::: 
+
 Jin, S., Romano, A., Vignoles, V. L., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Rodríguez-Bailón, R., Cross, S. E., Yalçın, M.J., Harb, C., Husnu, S., Ishii, K., Karamouna, P., Kafetsios, K., Kateri, E., Matamaros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., Uchida, Y, & Uskul, A. K. (2025). Honor, competition and cooperation across 13 societies. [Manuscript accepted at Nature Human Behavior]. 
 
 ::: {.column-margin}
@@ -21,8 +27,6 @@ Jin, S., Romano, A., Vignoles, V. L., [**Kirchner-Häusler, A.**]{style="color:#
 Schouten, A., Boiger, M., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, & Mesquita, B. (forthcoming). Culture and emotions in romantic relationships. In De Leersnyder, J. (Ed.), The Socio-Cultural Shaping of Emotion. Cambridge University Press: Cambridge, UK.
 
 Uchida, Y., & [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"} (2025). A Cultural Lens on Romantic Dependence: Commentary on Wahring, Simpson, & Van Lange (2025). [Manuscript accepted at Behavioral and Brain Sciences].
-
-Smith, P., [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Grigoryan, L., Lopukhova, O., Perez Floriano, L., Diaz Rivera, P. E., Abbas, A., Papastylianou, A., Tripodi, D., Gunsoy, C., Hakobjanyan, A., Torres, C., Grigoryan, A., Kocak, O., Mendes Texeira, M. L., Selim, H., Milfont, T., Gavreliuc, A., Gavreliuc, D., Bilewicz, M., Kwantes, C., Anderson, J., Easterbrook, M., Koc, Y., Delfino, G., Chobthamkit, P., Ping, H., Efremova, M., Daganzo, M. A., Adams, B., Ogusu, N., Tan, C. S., Guevara Maldonado, M., Lay, S., & Gamsakhurdia, V. (2025). Which cultural dimensions predict variations in emotional conformity? An extension of Vishkin et al. (2023) across 28 nations. [Manuscript accepted at Journal of Cross-Cultural Psychology]. Institute for the Future of Human Society, Kyoto University.
 
 [**Kirchner-Häusler, A.**]{style="color:#F2B09B;"}, Uskul, A. K., Wohl, M. J. A., Vignoles, V. L., Cross, S. E., Rodriguez-Bailón, R., Gezici-Yalçın, M., Harb, C., Husnu, S., Kafetsios, K., Kateri, E., Matamoros-Lima, J., Miniesy, R., Na, J., Pagliaro, S., Psaltis, C., Rabie, D., Teresi, M., & Uchida, Y. (2025). The role of apology beliefs for apology tendencies across cultures with varying honor norms. Current Research in Ecological and Social Psychology, 9, 100230. https://doi.org/10.1016/j.cresp.2025.100230
 
